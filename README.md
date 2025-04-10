@@ -1,3 +1,3 @@
 # AI_Research
 
-all data for the project
+put some stuff - all data for the project
