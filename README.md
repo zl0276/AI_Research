@@ -1,4 +1,3 @@
-# AI_Research
 # Generative AI Research (SID: 48262202)
 
 This repository contains materials for the study **"Using Generative AI Tools – Boon or Bane."**  
